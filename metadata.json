@@ -1,0 +1,6 @@
+{
+  "name": "RescueLink AI - Pakistan Emergency Coordination",
+  "description": "Human-in-the-loop emergency guidance, multilingual AI triage (English, Urdu, Roman Urdu), live rescue tracking, and dispatch coordination platform for Pakistan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
